@@ -1,7 +1,7 @@
 # secret-sauce
 
 * are you a **programmer**?
-* do you use **windows**?
+* do you use **windows** or **linux**?
 * are you ready to becoming a **coding legend**?????
 
 then i have the stuff for you. 
@@ -16,13 +16,20 @@ this is the sauce/dust/script that will transform you from a regular code monkey
 
 ## installation
 
-
+### windows 
 * download ahk [current version](https://www.autohotkey.com/)
 * download this [script](https://github.com/ezhang7423/secret-sauce/releases/tag/v4.2)
 * run the script by double clicking
 * configure [automatic startup](https://www.autohotkey.com/docs/FAQ.htm#Startup) by moving script into startup folder
 * laugh as the world succumbs at your feet
+
+### linux
+* install [autokey](
+
+**why no mac support?**
+### cuz mac sucks
 ----
+
 
 ## full list of shortcuts
 
