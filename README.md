@@ -31,6 +31,7 @@ this is the sauce/dust/script that will transform you from a regular code monkey
   <tr>
     <th>hotkey</th>
     <th>mapped key</th>
+  </tr>
   <tr>
     <th class="tg-0lax">alt+i</th>
     <th class="tg-0lax">up</th>
