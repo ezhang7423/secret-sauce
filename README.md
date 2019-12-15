@@ -18,17 +18,22 @@ this is the sauce/dust/script that will transform you from a regular code monkey
 
 ### windows 
 * download ahk [current version](https://www.autohotkey.com/)
-* download this [script](https://github.com/ezhang7423/secret-sauce/releases/tag/v4.2)
+* download this [script](https://github.com/ezhang7423/secret-sauce/releases/tag/v6.9)
 * run the script by double clicking
 * configure [automatic startup](https://www.autohotkey.com/docs/FAQ.htm#Startup) by moving script into startup folder
 * laugh as the world succumbs at your feet
 
 ### linux
 * install [autokey](https://github.com/autokey/autokey/releases)
-* download this [script](https://github.com/ezhang7423/secret-sauce/releases/tag/v4.2)
-* move this folder into ~/.config/autokey/data/'My Phrases'/
+* install unzip
+* download this [script](https://github.com/ezhang7423/secret-sauce/releases/tag/v6.9)
+* run these commands
+```
+unzip linux.zip
+mv ./remaps ~/.config/autokey/data/'My Phrases'/
+autokey
+```
 * configure [automatic startup](https://www.howtoforge.com/tutorial/how-to-use-startup-applications-on-ubuntu/)
-* the command is autokey, and now all is yours
 
 <html>
 <br />
@@ -44,7 +49,7 @@ this is the sauce/dust/script that will transform you from a regular code monkey
 
 ## full list of shortcuts
 
-
+<html>
 <table class="tg">
   <tr>
     <th>hotkey</th>
@@ -107,5 +112,6 @@ this is the sauce/dust/script that will transform you from a regular code monkey
     <td class="tg-0lax">select to end of line</td>
   </tr>
 </table>
-
-srsly tho, this isn't a virus, it's just the best thing you've stumbled upon all day. i don't know what got into me, dear reader, but i will never see you and you will never see me. so just enjoy it and don't ask questions
+  <br />
+</html>
+srsly tho, this isn't a virus, it's just the best thing you've stumbled upon all day. i don't know what got to me, dear reader, but i will never see you and you will never see me. so just enjoy it and don't ask questions
