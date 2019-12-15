@@ -29,6 +29,9 @@ this is the sauce/dust/script that will transform you from a regular code monkey
 
 <table class="tg">
   <tr>
+    <th>hotkey</th>
+    <th>mapped key</th>
+  <tr>
     <th class="tg-0lax">alt+i</th>
     <th class="tg-0lax">up</th>
   </tr>
