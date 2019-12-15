@@ -28,9 +28,12 @@ this is the sauce/dust/script that will transform you from a regular code monkey
 * download this [script](https://github.com/ezhang7423/secret-sauce/releases/tag/v4.2)
 * move this folder into ~/.config/autokey/data/'My Phrases'/
 * configure [automatic startup](https://www.howtoforge.com/tutorial/how-to-use-startup-applications-on-ubuntu/)
-* the command is autokey
+* the command is autokey, and now all is yours
 
-**why no mac support?**
+
+<br>
+<br>
+**why no mac support daddy?**
 ### cuz mac sucks
 ----
 
