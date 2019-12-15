@@ -1,1 +1,1 @@
-<shift><left>
+<shift>+<left>

@@ -1,10 +1,10 @@
 {
     "type": "phrase",
-    "description": "sJ",
+    "description": "cR",
     "modes": [
         3
     ],
-    "usageCount": 6,
+    "usageCount": 0,
     "prompt": false,
     "omitTrigger": false,
     "matchCase": false,
@@ -20,9 +20,9 @@
     "hotkey": {
         "modifiers": [
             "<alt>",
-            "<shift>"
+            "<ctrl>"
         ],
-        "hotKey": "j"
+        "hotKey": "l"
     },
     "filter": {
         "regex": null,

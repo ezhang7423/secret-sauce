@@ -1,10 +1,10 @@
 {
     "type": "phrase",
-    "description": "sJ",
+    "description": "selectEnd",
     "modes": [
         3
     ],
-    "usageCount": 6,
+    "usageCount": 0,
     "prompt": false,
     "omitTrigger": false,
     "matchCase": false,
@@ -22,7 +22,7 @@
             "<alt>",
             "<shift>"
         ],
-        "hotKey": "j"
+        "hotKey": "o"
     },
     "filter": {
         "regex": null,
