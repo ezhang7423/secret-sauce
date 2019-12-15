@@ -31,8 +31,8 @@ this is the sauce/dust/script that will transform you from a regular code monkey
 * the command is autokey, and now all is yours
 
 
-<br>
-<br>
+<br />
+<br />
 **why no mac support daddy?**
 ### cuz mac sucks
 ----
