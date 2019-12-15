@@ -18,3 +18,12 @@ this is the sauce/dust/script that will transform you from a regular code monkey
 
 
 * download ahk ['current version']('https://www.autohotkey.com/')
+* download this [script]('https://example.com')
+* run the script by double clicking
+* configure [automatic startup] by moving script into startup folder('https://www.autohotkey.com/docs/FAQ.htm#Startup')
+* laugh as the world succumbs at your feet
+
+
+
+----
+srsly tho, this isn't a virus. i don't know what got into me, dear reader, but i will never see you and you will never see me. so just enjoy it and don't ask questions
