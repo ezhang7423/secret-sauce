@@ -27,7 +27,6 @@ this is the sauce/dust/script that will transform you from a regular code monkey
 ## full list of shortcuts
 
 
-</style>
 <table class="tg">
   <tr>
     <th class="tg-0lax">alt+i</th>
@@ -87,4 +86,4 @@ this is the sauce/dust/script that will transform you from a regular code monkey
   </tr>
 </table>
 
-srsly tho, this isn't a virus. i don't know what got into me, dear reader, but i will never see you and you will never see me. so just enjoy it and don't ask questions
+srsly tho, this isn't a virus, it's just the best thing you've stumbled upon all day. i don't know what got into me, dear reader, but i will never see you and you will never see me. so just enjoy it and don't ask questions
