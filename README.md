@@ -30,9 +30,10 @@ this is the sauce/dust/script that will transform you from a regular code monkey
 * configure [automatic startup](https://www.howtoforge.com/tutorial/how-to-use-startup-applications-on-ubuntu/)
 * the command is autokey, and now all is yours
 
-
+<html>
 <br />
 <br />
+</html>
 **why no mac support daddy?**
 ### cuz mac sucks
 ----
