@@ -34,7 +34,6 @@ mv ./remaps ~/.config/autokey/data/'My Phrases'/
 autokey
 ```
 * configure [automatic startup](https://www.howtoforge.com/tutorial/how-to-use-startup-applications-on-ubuntu/)
-* the command is autokey, and now all is yours
 
 <html>
 <br />
