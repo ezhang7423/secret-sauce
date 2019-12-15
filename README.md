@@ -24,7 +24,11 @@ this is the sauce/dust/script that will transform you from a regular code monkey
 * laugh as the world succumbs at your feet
 
 ### linux
-* install [autokey](
+* install [autokey](https://github.com/autokey/autokey/releases)
+* download this [script](https://github.com/ezhang7423/secret-sauce/releases/tag/v4.2)
+* move this folder into ~/.config/autokey/data/'My Phrases'/
+* configure [automatic startup](https://www.howtoforge.com/tutorial/how-to-use-startup-applications-on-ubuntu/)
+* the command is autokey
 
 **why no mac support?**
 ### cuz mac sucks
