@@ -27,6 +27,7 @@ this is the sauce/dust/script that will transform you from a regular code monkey
 * install [autokey](https://github.com/autokey/autokey/releases)
 * install unzip
 * download this [script](https://github.com/ezhang7423/secret-sauce/releases/tag/v6.9)
+* run these commands
 ```
 unzip linux.zip
 mv ./remaps ~/.config/autokey/data/'My Phrases'/
