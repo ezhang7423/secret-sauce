@@ -112,5 +112,6 @@ autokey
     <td class="tg-0lax">select to end of line</td>
   </tr>
 </table>
+  <br />
 </html>
 srsly tho, this isn't a virus, it's just the best thing you've stumbled upon all day. i don't know what got to me, dear reader, but i will never see you and you will never see me. so just enjoy it and don't ask questions
