@@ -33,8 +33,8 @@ this is the sauce/dust/script that will transform you from a regular code monkey
     <th>mapped key</th>
   </tr>
   <tr>
-    <th class="tg-0lax">alt+i</th>
-    <th class="tg-0lax">up</th>
+    <td class="tg-0lax">alt+i</td>
+    <td class="tg-0lax">up</td>
   </tr>
   <tr>
     <td class="tg-0lax">alt+j</td>
