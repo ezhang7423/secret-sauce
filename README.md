@@ -29,9 +29,9 @@ this is the sauce/dust/script that will transform you from a regular code monkey
 * download this [script](https://github.com/ezhang7423/secret-sauce/releases/tag/v6.9)
 * run these commands
 ```
+autokey
 unzip linux.zip
 mv ./remaps ~/.config/autokey/data/'My Phrases'/
-autokey
 ```
 * configure [automatic startup](https://www.howtoforge.com/tutorial/how-to-use-startup-applications-on-ubuntu/)
 
