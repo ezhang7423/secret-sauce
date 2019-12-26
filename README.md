@@ -127,6 +127,14 @@ mv ./remaps ~/.config/autokey/data/'My Phrases'/
     <td>alt+ctrl+shift+k</td>
     <td>page down</td>
   </tr>
+  <tr>
+    <td>alt+p</td>
+    <td>delete</td>
+  </tr>
+  <tr>
+    <td>alt+shift+p</td>
+    <td>backspace</td>
+  </tr>
     
 </table>
   <br />
