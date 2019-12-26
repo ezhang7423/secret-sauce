@@ -113,19 +113,19 @@ mv ./remaps ~/.config/autokey/data/'My Phrases'/
   </tr>
   <tr>
     <td>alt+shift+i</td>
-    <td>Ctrl + Page Up</td>
+    <td>ctrl + page up</td>
   </tr>
   <tr>
     <td>alt+shit+k</td>
-    <td>Ctrl + Page Down </td>
+    <td>ctrl + page down </td>
   </tr>
   <tr>
     <td>alt+ctrl+shift+i</td>
-    <td>Page Up</td>
+    <td>page up</td>
   </tr>
   <tr>
     <td>alt+ctrl+shift+k</td>
-    <td>Page Down</td>
+    <td>page down</td>
   </tr>
     
 </table>
