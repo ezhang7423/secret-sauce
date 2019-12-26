@@ -8,6 +8,15 @@ Send, {Backspace}
 return
 
 
+
+^!+k::
+Send, {PgDn}
+return 
+
+^!+i::
+Send, {PgUp}
+return
+
 ^!k::
 Send, ^{PgDn}
 return 
@@ -15,6 +24,14 @@ return
 ^!i::
 Send, ^{PgUp}
 return
+
++!p::
+Send, {Backspace}
+return
+
+!p::
+Send, {Delete}
+return 
 
 !o::
 Send, {End}
