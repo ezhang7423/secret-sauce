@@ -112,11 +112,19 @@ mv ./remaps ~/.config/autokey/data/'My Phrases'/
     <td class="tg-0lax">select to end of line</td>
   </tr>
   <tr>
-    <td>ctr+alt+shift+i</td>
+    <td>alt+shift+i</td>
+    <td>Ctrl + Page Up</td>
+  </tr>
+  <tr>
+    <td>alt+shit+k</td>
+    <td>Ctrl + Page Down </td>
+  </tr>
+  <tr>
+    <td>alt+ctrl+shift+i</td>
     <td>Page Up</td>
   </tr>
   <tr>
-    <td>ctr+alt+shift+k</td>
+    <td>alt+ctrl+shift+k</td>
     <td>Page Down</td>
   </tr>
     
