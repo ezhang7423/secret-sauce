@@ -26,11 +26,11 @@ Send, ^{PgUp}
 return
 
 +!p::
-Send, {Backspace}
+Send, {Delete}
 return
 
 !p::
-Send, {Delete}
+Send, {Backspace}
 return 
 
 !o::
