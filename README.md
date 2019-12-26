@@ -129,11 +129,11 @@ mv ./remaps ~/.config/autokey/data/'My Phrases'/
   </tr>
   <tr>
     <td>alt+p</td>
-    <td>delete</td>
+    <td>backspace</td>
   </tr>
   <tr>
     <td>alt+shift+p</td>
-    <td>backspace</td>
+    <td>delete</td>
   </tr>
     
 </table>
