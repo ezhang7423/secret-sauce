@@ -33,7 +33,9 @@ unzip linux.zip
 mv ./remaps ~/.config/autokey/data/'My Phrases'/
 ```
 * configure [automatic startup](https://www.howtoforge.com/tutorial/how-to-use-startup-applications-on-ubuntu/)
-![Imgur](https://i.imgur.com/whqecx4.mp4)
+
+![Ubuntu example](https://media3.giphy.com/media/H4zq4fC27sHyvU7Dqf/giphy.gif)
+
 <html>
 <br />
 <br />
