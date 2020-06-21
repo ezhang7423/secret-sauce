@@ -76,15 +76,15 @@ mv ./remaps ~/.config/autokey/data/'My Phrases'/
     <td class="tg-0lax">skip a word left</td>
   </tr>
   <tr>
-    <td class="tg-0lax">alt+ctrl+i</td>
+    <td class="tg-0lax">alt+ctrl+l</td>
     <td class="tg-0lax">skip a word right</td>
   </tr>
   <tr>
-    <td class="tg-0lax">alt+shift+i</td>
+    <td class="tg-0lax">alt+shift+j</td>
     <td class="tg-0lax">select one character left</td>
   </tr>
   <tr>
-    <td class="tg-0lax">alt+shift+j</td>
+    <td class="tg-0lax">alt+shift+l</td>
     <td class="tg-0lax">select one character right</td>
   </tr>
   <tr>
@@ -112,19 +112,19 @@ mv ./remaps ~/.config/autokey/data/'My Phrases'/
     <td class="tg-0lax">select to end of line</td>
   </tr>
   <tr>
-    <td>alt+shift+i</td>
+    <td>ctr+alt+i</td>
     <td>ctrl + page up</td>
   </tr>
   <tr>
-    <td>alt+shit+k</td>
+    <td>ctrl+alt+k</td>
     <td>ctrl + page down </td>
   </tr>
   <tr>
-    <td>alt+ctrl+shift+i</td>
+    <td>ctrl+alt+shift+i</td>
     <td>page up</td>
   </tr>
   <tr>
-    <td>alt+ctrl+shift+k</td>
+    <td>ctrl+alt+shift+k</td>
     <td>page down</td>
   </tr>
   <tr>
