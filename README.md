@@ -34,7 +34,9 @@ mv ./remaps ~/.config/autokey/data/'My Phrases'/
 ```
 * configure [automatic startup](https://www.howtoforge.com/tutorial/how-to-use-startup-applications-on-ubuntu/)
 
-![Ubuntu example](https://media3.giphy.com/media/H4zq4fC27sHyvU7Dqf/giphy.gif)
+Here's an example on ubuntu: 
+
+![Ubuntu example](https://raw.githubusercontent.com/ezhang7423/gifholder/master/secretsauce/startup.gif)
 
 <html>
 <br />
