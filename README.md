@@ -25,7 +25,6 @@ this is the sauce/dust/script that will transform you from a regular code monkey
 
 ### linux
 * install [autokey](https://github.com/autokey/autokey/releases)
-* install unzip
 * download this [script](https://github.com/ezhang7423/secret-sauce/releases/tag/v69.420)
 * run these commands in the folder of the downloaded script
 ```
