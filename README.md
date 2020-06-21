@@ -18,7 +18,7 @@ this is the sauce/dust/script that will transform you from a regular code monkey
 
 ### windows 
 * download ahk [current version](https://www.autohotkey.com/)
-* download this [script](https://github.com/ezhang7423/secret-sauce/releases/tag/v6.9)
+* download this [script](https://github.com/ezhang7423/secret-sauce/releases/tag/v69.420)
 * run the script by double clicking
 * configure [automatic startup](https://www.autohotkey.com/docs/FAQ.htm#Startup) by moving script into startup folder
 * laugh as the world succumbs at your feet
@@ -26,7 +26,7 @@ this is the sauce/dust/script that will transform you from a regular code monkey
 ### linux
 * install [autokey](https://github.com/autokey/autokey/releases)
 * install unzip
-* download this [script](https://github.com/ezhang7423/secret-sauce/releases/tag/v6.9)
+* download this [script](https://github.com/ezhang7423/secret-sauce/releases/tag/v69.420)
 * run these commands in the folder of the downloaded script
 ```
 autokey
